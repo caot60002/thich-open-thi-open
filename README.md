@@ -1,1 +1,2 @@
-# thich-open-thi-open
+# ROKID MANAGER
+edited by Tu
